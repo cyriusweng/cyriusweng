@@ -1,28 +1,55 @@
-# Cyrius Weng
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Cyrius Weng" src="assets/header-light.svg" width="100%">
+  </picture>
+</div>
 
-**Finance, language and practical software.**
+Hey, I'm Cyrius. I build software around my daily workflows: local-first utilities, Obsidian tools with thoughtful typography, and lightweight tools that run reliably in the background.
 
-I explore financial English and bilingual communication, and build AI-assisted tools for everyday knowledge work. My projects bring together local AI, thoughtful interfaces and personal workflows.
+I explore financial English and bilingual communication, and enjoy building systems where AI assistance stays private, fast, and close to the local filesystem.
 
-[LinkedIn](https://www.linkedin.com/in/cyriusweng) · [Projects](https://github.com/cyriusweng?tab=repositories) · [Open-source contributions](#open-source-contributions)
+---
 
-## Selected projects
+## Open Source
 
-### [Opal for Obsidian](https://github.com/cyriusweng/opal-theme)
-A configurable theme with light and dark appearances, paired with [Opal Companion](https://github.com/cyriusweng/opal-companion) for per-note styling, callouts and image layouts.
+### [Oh My Pi (OMP)](https://github.com/can1357/oh-my-pi)
+Official contributor to OMP, an AI coding agent with native IDE integration.
 
-### [Local AI Bookmark Organizer](https://github.com/cyriusweng/local-ai-bookmark-organizer)
-A local AI-powered bookmark cleaner and organiser built with Python and Ollama.
+- **[PR #11160](https://github.com/can1357/oh-my-pi/pull/11160)** (Merged) — Resolved transient Python HTTP/2 stream resets and HTTP/1.1 chunked response interruptions when routed through local and remote proxies.
+- Credited in official release **[v18.1.17](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.17)** under `pi-ai` and New Contributors.
 
-### [Transmission Global Trackers](https://github.com/cyriusweng/transmission-global-trackers)
-A public tracker aggregation project with daily validation and optimised tiers for Transmission.
+---
 
-## Open-source contributions
+## Selected Projects
 
-**[Oh My Pi (OMP)](https://github.com/can1357/oh-my-pi) contributor**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cyriusweng/opal-theme">Opal for Obsidian</a></h3>
+      <p>A comprehensive, accessibility-checked theme for Obsidian with balanced light and dark modes, refined typography, and ~83 style controls.</p>
+      <p>Paired with <b><a href="https://github.com/cyriusweng/opal-companion">Opal Companion</a></b> for per-note callouts, highlights, and image layouts.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cyriusweng/local-ai-bookmark-organizer">Local AI Bookmark Organizer</a></h3>
+      <p>Clean and categorize large browser bookmark collections entirely on your own machine using Python and local Ollama models. Keeps personal browsing data strictly on your device.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cyriusweng/transmission-global-trackers">Transmission Global Trackers</a></h3>
+      <p>Automated public BitTorrent tracker aggregator with daily live validation, latency testing, and optimized tier generation for Transmission.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cyriusweng/wechat-intelligence-hub">WeChat Intelligence Hub</a></h3>
+      <p>Local-first chat intelligence system featuring a read-only CLI, searchable archive, daily briefings, and opportunity tracking.</p>
+    </td>
+  </tr>
+</table>
 
-Contributed a fix for retrying transient Python HTTP/2 stream resets and HTTP/1.1 chunked response interruptions forwarded by proxies.
+---
 
-[PR #11160 · Merged](https://github.com/can1357/oh-my-pi/pull/11160) · [Released in v18.1.17](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.17)
+## Connect
 
-The official release notes credit **@cyriusweng** for the fix and list me among the project's new contributors.
+- **LinkedIn**: [cyriusweng](https://www.linkedin.com/in/cyriusweng)
+- **Repositories**: [All public projects](https://github.com/cyriusweng?tab=repositories)
