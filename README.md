@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Cyrius Weng" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyriusweng/cyriusweng/574d16adb7eaa7d8ad1916695f14acee7d47ee6f/assets/header-dark.svg">
+  <img alt="Cyrius Weng" src="https://raw.githubusercontent.com/cyriusweng/cyriusweng/574d16adb7eaa7d8ad1916695f14acee7d47ee6f/assets/header-light.svg" width="100%">
 </picture>
 
 Hi, I'm Cyrius.
