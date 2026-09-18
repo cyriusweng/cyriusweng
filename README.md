@@ -1,38 +1,45 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyriusweng/cyriusweng/574d16adb7eaa7d8ad1916695f14acee7d47ee6f/assets/header-dark.svg">
-  <img alt="Cyrius Weng" src="https://raw.githubusercontent.com/cyriusweng/cyriusweng/574d16adb7eaa7d8ad1916695f14acee7d47ee6f/assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-mobile-dark.png">
+  <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.png">
+  <img alt="Cyrius Weng — language, learning, attention and tools" src="./assets/header-light.png" width="100%">
 </picture>
 
-Hi, I'm Cyrius.
+I work in English education. Earlier roles in editorial review and financial services shaped habits I still use every day: attending to evidence, finding structure, choosing exact words and staying aware of consequence.
 
-I work with English and finance, and use AI to build tools for things I do every day.
+I build local-first tools and interfaces for reading, writing, attention and everyday systems.
 
-## Projects
+[Writing](https://cyriusweng.com) · [LinkedIn](https://www.linkedin.com/in/cyriusweng) · [Bluesky](https://bsky.app/profile/cyriusweng.com) · [X](https://x.com/cyriusweng)
+
+## Selected work
 
 ### [Opal for Obsidian](https://github.com/cyriusweng/opal-theme)
 
-A theme with light and dark appearances, paired with [Opal Companion](https://github.com/cyriusweng/opal-companion) for per-note styling, callouts and image layouts.
+A comprehensive Obsidian theme with paired light and dark appearances, accessibility checks and extensive Style Settings controls. [Opal Companion](https://github.com/cyriusweng/opal-companion) adds visual controls for note states, callouts, highlights, tasks and image layouts.
 
-![Opal for Obsidian in light and dark appearances](assets/opal-preview.png)
+`CSS` · `JavaScript` · `Obsidian API`
 
-### [Local AI Bookmark Organizer](https://github.com/cyriusweng/local-ai-bookmark-organizer)
+![Opal for Obsidian in light and dark appearances](./assets/opal-preview.png)
 
-A bookmark cleaner and organiser using Python and local Ollama models.
+### [OMP Code Model](https://github.com/cyriusweng/omp-code-model)
 
-### [Transmission Global Trackers](https://github.com/cyriusweng/transmission-global-trackers)
+Same-conversation coding-model phases for OMP: a deliberate hand-off for implementation followed by a return to the original model for review.
 
-Public tracker lists with daily validation and tiers for Transmission.
+`JavaScript` · `OMP` · `Model routing`
 
-## Open-source contributions
+### [WeChat Intelligence Hub](https://github.com/cyriusweng/wechat-intelligence-hub)
 
-### [Oh My Pi (OMP)](https://github.com/can1357/oh-my-pi)
+A local-first system with searchable WeChat history, daily briefings, follow-ups and opportunity tracking.
 
-I contributed a retry fix for interrupted Python HTTP responses forwarded through proxies.
+`Python` · `SQLite` · `Local-first`
 
-- [PR #11160 · Merged](https://github.com/can1357/oh-my-pi/pull/11160)
-- [Released in v18.1.17](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.17)
+### Practical local tools
 
-## Connect
+- [Local AI Bookmark Organizer](https://github.com/cyriusweng/local-ai-bookmark-organizer) — a bookmark cleaner and organiser using Python and local Ollama models.
+- [Transmission Global Trackers](https://github.com/cyriusweng/transmission-global-trackers) — daily-validated public tracker lists and tiered Transmission configurations.
+- [FlowVision](https://github.com/cyriusweng/FlowVision) — a waterfall-style image viewer for macOS.
 
-- [LinkedIn](https://www.linkedin.com/in/cyriusweng)
-- [All projects](https://github.com/cyriusweng?tab=repositories)
+## Upstream work
+
+My retry fix for interrupted Python HTTP responses forwarded through proxies was merged into [Oh My Pi](https://github.com/can1357/oh-my-pi) in [PR #11160](https://github.com/can1357/oh-my-pi/pull/11160) and released in [v18.1.17](https://github.com/can1357/oh-my-pi/releases/tag/v18.1.17).
+
