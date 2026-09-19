@@ -27,12 +27,6 @@ Same-conversation coding-model phases for OMP: a deliberate hand-off for impleme
 
 `JavaScript` · `OMP` · `Model routing`
 
-### [WeChat Intelligence Hub](https://github.com/cyriusweng/wechat-intelligence-hub)
-
-A local-first system with searchable WeChat history, daily briefings, follow-ups and opportunity tracking.
-
-`Python` · `SQLite` · `Local-first`
-
 ### Practical local tools
 
 - [Local AI Bookmark Organizer](https://github.com/cyriusweng/local-ai-bookmark-organizer) — a bookmark cleaner and organiser using Python and local Ollama models.
