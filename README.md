@@ -19,7 +19,7 @@ An editorial theme shaped by typography, reading space and a shared visual langu
 
 [Cyriform Companion](https://github.com/cyriusweng/cyriform-companion) brings those choices into the note: searchable visual pickers for page styles, callouts, highlights, tasks and image layouts. Both are available through Obsidian’s community directory.
 
-__omp_shell("[Cyriform in dark mode](https://raw.githubusercontent.com/cyriusweng/cyriform-theme/main/screenshots/dark.png)")
+![Cyriform in dark mode](https://raw.githubusercontent.com/cyriusweng/cyriform-theme/main/screenshots/dark.png)
 
 ### Tools for [Oh My Pi](https://github.com/can1357/oh-my-pi)
 
@@ -33,7 +33,7 @@ __omp_shell("[Cyriform in dark mode](https://raw.githubusercontent.com/cyriuswen
 
 An Obsidian theme with paired light and dark appearances, accessibility checks and extensive Style Settings controls. [Opal Companion](https://github.com/cyriusweng/opal-companion) adds visual controls for note states, callouts, highlights, tasks and image layouts.
 
-__omp_shell("[Opal for Obsidian in light and dark appearances](./assets/opal-preview.png)")
+![Opal for Obsidian in light and dark appearances](./assets/opal-preview.png)
 
 ### Everyday tools
 
