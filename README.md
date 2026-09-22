@@ -39,7 +39,6 @@ An Obsidian theme with paired light and dark appearances, accessibility checks a
 
 - [Transmission Global Trackers](https://github.com/cyriusweng/transmission-global-trackers): daily-validated public tracker lists and tiered Transmission configurations.
 - [Local AI Bookmark Organizer](https://github.com/cyriusweng/local-ai-bookmark-organizer): a bookmark cleaner and organiser using Python and Ollama models.
-- [My FlowVision fork](https://github.com/cyriusweng/FlowVision): a waterfall-style image viewer for macOS.
 
 ## Upstream work
 
